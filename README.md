@@ -1,0 +1,2 @@
+# how_read_flask_sourcecode
+记录自己是怎样阅读flask源码的
